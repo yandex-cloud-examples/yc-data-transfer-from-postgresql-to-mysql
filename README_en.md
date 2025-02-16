@@ -1,0 +1,3 @@
+# Migrating data from a Yandex Managed Service for PostgreSQL cluster to Yandex Managed Service for MySQL through Yandex Data Transfer
+
+With [Data Transfer](https://yandex.cloud/docs/data-transfer), you can transfer data from a [Managed Service for PostgreSQL](https://yandex.cloud/docs/managed-postgresql) database to a [Managed Service for MySQL](https://yandex.cloud/docs/managed-mysql) one. See [this tutorial](https://yandex.cloud/docs/data-transfer/tutorials/mpg-to-mmy) to learn how to set up the solution with Terraform. This repository contains the configuration file you will need: [postgresql-mysql.tf](postgresql-mysql.tf).
